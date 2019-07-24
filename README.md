@@ -1,2 +1,2 @@
-# DataAnalysisProjects
+# Data Analysis Projects
 Student Projects 
