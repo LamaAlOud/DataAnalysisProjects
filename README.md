@@ -1,2 +1,2 @@
 # Data Analysis Projects
-Student Projects 
+Student Submission Projects (Udacity)
